@@ -1,0 +1,13 @@
+# Dataset
+Mall_Customers.csv
+
+# Python folders
+__pycache__/
+*.pyc
+
+# Streamlit files
+.streamlit/
+
+# Virtual Environment (if you use one)
+venv/
+env/
